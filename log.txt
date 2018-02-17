@@ -1,0 +1,27 @@
+spotify-this-song : anemone
+==========
+spotify-this-song : anemone
+==========
+my-tweets : undefined
+==========
+do-what-it-says : undefined
+==========
+spotify-this-song : Peace Sells
+==========
+do-what-it-says : undefined
+==========
+do-what-it-says : undefinedturns into : spotify-this-song : Peace Sells
+==========
+do-what-it-says : undefined
+==========
+do-what-it-says : undefined turns into : spotify-this-song : Peace Sells
+==========
+do-what-it-says : undefined
+==========
+spotify-this-song : Peace Sells
+==========
+do-what-it-says : undefined
+==========
+Turns into:
+spotify-this-song : Peace Sells
+==========

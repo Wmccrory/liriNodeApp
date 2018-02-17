@@ -156,7 +156,7 @@ require("dotenv").config();
 
 3. `node liri.js movie-this '<movie name here>'`
 
-   * This will output the following information to your terminal/bash window:
+<!--    * This will output the following information to your terminal/bash window:
 
      ```
        * Title of the movie.
@@ -167,7 +167,7 @@ require("dotenv").config();
        * Language of the movie.
        * Plot of the movie.
        * Actors in the movie.
-     ```
+     ``` -->
 
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
      
@@ -177,21 +177,21 @@ require("dotenv").config();
    
    * You'll use the request package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
 
-4. `node liri.js do-what-it-says`
+<!-- 4. `node liri.js do-what-it-says`
    
    * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
      
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
      
-     * Feel free to change the text in that document to test out the feature for other commands.
+     * Feel free to change the text in that document to test out the feature for other commands. -->
 
-### BONUS
+<!-- ### BONUS
 
 * In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
 
 * Make sure you append each command you run to the `log.txt` file. 
 
-* Do not overwrite your file each time you run a command.
+* Do not overwrite your file each time you run a command. -->
 
 - - -
 
